@@ -180,23 +180,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Bringing a smile to my patients
+        level: 90%
+
+      - name: Bone marrow biopsies
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Lumbar puncture with intra-fecal chemotherapy
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Public speaking
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Leadership
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Teaching
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
