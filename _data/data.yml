@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website: #blog.webjeda.com #do not add http://
     linkedin: saramatar
-    github: saramatar
+    github: #saramatar
     gitlab:
     bitbucket:
     twitter: '@saramatarMD'
@@ -164,12 +164,12 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Pegfilgrastim 6 mg versus 12 mg for Autologous Stem Cell Mobilization in Multiple Myeloma Patients: Efficacy, Safety, and Cost Analysis."
+        authors: Sara M.
+        conference: Abstract published in Blood 126.23 (2015):4306-4306.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      - title: "Advances in immunotherapy for melanoma management. Human Vaccines and Immunotherapeutics."
+        authors: Sara M.-
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
